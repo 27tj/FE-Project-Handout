@@ -229,6 +229,7 @@ export default function StudentsPage() {
                   <StyledTextField
                     name="Present-Perfect-Question-1"
                     label="Question 1"
+                    required
                   />
                   (tidy up) up her room already.
                 </StyledQuestion>
@@ -237,6 +238,7 @@ export default function StudentsPage() {
                   <StyledTextField
                     name="Present-Perfect-Question-2"
                     label="Question 2"
+                    required
                   />
                   (buy) Eason Chan’s latest album.
                 </StyledQuestion>
@@ -245,6 +247,7 @@ export default function StudentsPage() {
                   <StyledTextField
                     name="Present-Perfect-Question-3"
                     label="Question 3"
+                    required
                   />
                   (play) football for about three years.
                 </StyledQuestion>
@@ -382,6 +385,7 @@ export default function StudentsPage() {
                   <StyledTextField
                     id="Past-Perfect-Question-1"
                     label="Question 1"
+                    required
                   />
                   (miss) the bus.
                 </StyledQuestion>
@@ -394,6 +398,7 @@ export default function StudentsPage() {
                   <StyledTextField
                     id="Past-Perfect-Question-2"
                     label="Question 2"
+                    required
                   />
                   (finish) her dinner before she start to do revision.
                 </StyledQuestion>
@@ -406,6 +411,7 @@ export default function StudentsPage() {
                   <StyledTextField
                     id="Past-Perfect-Question-3"
                     label="Question 3"
+                    required
                   />
                   (forgot) to lock the door.
                 </StyledQuestion>
