@@ -341,6 +341,15 @@ export default function StudentsPage() {
               <StyledGridItem item xs={6} className="examples secondary">
                 <div>Kelvin said that he had applied for a job</div>
               </StyledGridItem>
+              <StyledGridItem item xs={6} className="situations">
+                <div>An imaginary past action that did not happen.</div>
+              </StyledGridItem>
+              <StyledGridItem item xs={6} className="examples secondary">
+                <div>
+                  If Sam had taken the taxi, he would not have been late for
+                  class.
+                </div>
+              </StyledGridItem>
             </Grid>
           </div>
         </ContentWrapper>
