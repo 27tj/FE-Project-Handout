@@ -18,8 +18,8 @@ import {
   StyledImage,
 } from "./styledComponent";
 import "./StudentsPage.css";
-import presentTimeline from "../../assets/present.png";
-import pastTimeline from "../../assets/past.png";
+import presentTimeline from "../../assets/Present.png";
+import pastTimeline from "../../assets/Past.png";
 import english_highlight from "../../assets/english_highlight.png";
 import book_word from "../../assets/book_word.png";
 import backborad from "../../assets/backborad.png";
