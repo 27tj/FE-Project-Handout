@@ -5,12 +5,8 @@ import react from "@vitejs/plugin-react-swc";
 export default defineConfig(({ command }) => {
   const config = {
     plugins: [react()],
-    base: "/FE-Project-Handout",
+    base: "/FE-Project-Handout/",
   };
-
-  if (command !== "serve") {
-    config.base = "/react-vite-gh-pages/";
-  }
 
   return config;
 });
