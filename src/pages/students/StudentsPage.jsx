@@ -44,9 +44,7 @@ export default function StudentsPage() {
         fetch(scriptURLPast, {
           method: "POST",
           body: formData,
-        })
-          .then((response) => console.log(response.json))
-          .catch((error) => console.error(error));
+        });
         break;
       case "present-perfect-Question":
         valueArray.forEach((element, index) => {
