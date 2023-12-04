@@ -139,6 +139,7 @@ export default function StudentsPage() {
             <StyledArticle>
               Subject + have/has + Past Participle + Object
             </StyledArticle>
+            <StyledArticle>Example: Simon has been to US before</StyledArticle>
           </div>
         </ContentWrapper>
         <ContentWrapper
@@ -261,7 +262,6 @@ export default function StudentsPage() {
             backgroundRepeat: "no-repeat",
             backgroundSize: "cover",
             backgroundPosition: "center",
-            backgroundRepeat: "no-repeat",
           }}
         >
           <StyledTilte>Past Perfect Tense</StyledTilte>
@@ -297,6 +297,7 @@ export default function StudentsPage() {
             <StyledArticle>
               Subject + had + Past Participle + Object
             </StyledArticle>
+            <StyledArticle>Example: He had left when I arrived.</StyledArticle>
           </div>
         </ContentWrapper>
         <ContentWrapper
