@@ -243,13 +243,49 @@ export default function StudentsPage() {
                   (buy) Eason Chan’s latest album.
                 </StyledQuestion>
                 <StyledQuestion>
-                  3.I
+                  3. I
                   <StyledTextField
                     name="Present-Perfect-Question-3"
                     label="Question 3"
                     required
                   />
                   (play) football for about three years.
+                </StyledQuestion>
+                <StyledQuestion>
+                  4. Tom
+                  <StyledTextField
+                    name="Present-Perfect-Question-4"
+                    label="Question 4"
+                    required
+                  />
+                  (break) his leg so he cannot play volleyball tonight.
+                </StyledQuestion>
+                <StyledQuestion>
+                  5. Justin
+                  <StyledTextField
+                    name="Present-Perfect-Question-5"
+                    label="Question 5"
+                    required
+                  />
+                  (go) to Hong Kong on a school trip since last week.
+                </StyledQuestion>
+                <StyledQuestion>
+                  6. Jeff
+                  <StyledTextField
+                    name="Present-Perfect-Question-6"
+                    label="Question 6"
+                    required
+                  />
+                  (lose) his key. (He doesn't have it now)
+                </StyledQuestion>
+                <StyledQuestion>
+                  7. Sandy is still here. She
+                  <StyledTextField
+                    name="Present-Perfect-Question-6"
+                    label="Question 6"
+                    required
+                  />
+                  (not / go) out
                 </StyledQuestion>
               </div>
               <Button type="submit">Submit</Button>
@@ -414,6 +450,42 @@ export default function StudentsPage() {
                     required
                   />
                   (forgot) to lock the door.
+                </StyledQuestion>
+                <StyledQuestion>
+                  4. Kate
+                  <StyledTextField
+                    id="Past-Perfect-Question-4"
+                    label="Question 4"
+                    required
+                  />
+                  (just/get) home when I phoned.
+                </StyledQuestion>
+                <StyledQuestion>
+                  5. When Sam arrived at the party, Marry
+                  <StyledTextField
+                    id="Past-Perfect-Question-5"
+                    label="Question 5"
+                    required
+                  />
+                 (already/go) home.
+                </StyledQuestion>
+                <StyledQuestion>
+                  6. The room was dirty. They
+                  <StyledTextField
+                    id="Past-Perfect-Question-6"
+                    label="Question 6"
+                    required
+                  />
+                  (not/claen) it for weeks.
+                </StyledQuestion>
+                <StyledQuestion>
+                  7. Sara didn’t come to the cinema with us. She
+                  <StyledTextField
+                    id="Past-Perfect-Question-3"
+                    label="Question 3"
+                    required
+                  />
+                 (already/see) the movie.
                 </StyledQuestion>
               </div>
               <Button type="submit">Submit</Button>
