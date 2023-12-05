@@ -81,7 +81,7 @@ export default function StudentsPage() {
         className="introduction-wrapper section"
         sx={{
           color: "rgb(5, 17, 46)",
-          backgroundImage: `url(${book_word})`,
+          backgroundImage: `url(${backborad})`,
           backgroundRepeat: "no-repeat",
           backgroundSize: "cover",
           backgroundPosition: "center",

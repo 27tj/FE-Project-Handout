@@ -139,7 +139,7 @@ export const StyledArticleSmall = styled(Typography)({
   },
 });
 export const StyledQuestion = styled("div")({
-  marginTop: "15px",
+  marginTop: "10px",
   paragraph: "false",
   [theme.breakpoints.up("xs")]: {
     fontSize: "max(16px, calc(100vw/25))",
