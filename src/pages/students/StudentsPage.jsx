@@ -280,8 +280,8 @@ export default function StudentsPage() {
                 <StyledQuestion>
                   7. Sandy is still here. She
                   <StyledTextField
-                    name="Present-Perfect-Question-6"
-                    label="Question 6"
+                    name="Present-Perfect-Question-7"
+                    label="Question 7"
                     required
                   />
                   (not / go) out
@@ -480,8 +480,8 @@ export default function StudentsPage() {
                 <StyledQuestion>
                   7. Sara didn’t come to the cinema with us. She
                   <StyledTextField
-                    id="Past-Perfect-Question-3"
-                    label="Question 3"
+                    id="Past-Perfect-Question-7"
+                    label="Question 7"
                     required
                   />
                  (already/see) the movie.
